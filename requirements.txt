@@ -1,0 +1,10 @@
+pandas
+python-docx
+fastapi
+uvicorn
+nltk
+elasticsearch
+python-multipart
+requests
+starlette
+scikit-learn
