@@ -12,3 +12,6 @@ in the terminal will call the virtual environment and run the server.
 
 Elasticsearch should be running locally in order for the backend to function properly.
 The Elasticsearch credentials are present in the code and are not currently configurable.
+
+## Github Repo of Frontend
+https://github.com/tacoshrimp/PeopleSearch
